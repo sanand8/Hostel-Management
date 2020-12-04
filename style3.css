@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(./images/megabh.jpg) no-repeat 0px 0px;
+    min-height: 100vh;
+    background-size: cover;
+    
+}
+
+.group {
+	text-align: left;
+	color: #00e1ff;
+	font-size: 40px;
+        font-weight: 500;
+        letter-spacing: 2px;
+	
+}
+
+h2 {
+	color: #6a00ff;
+	font-size: 40px;
+        font-weight: 500;
+}
+
+.group3 {
+	color: #00e1ff;
+	font-size: 20px;
+        font-weight: 500;
+}
+
+h1 {
+	text-align: left;
+	color: #f7ff03;
+	font-size: 70px;
+        font-weight: 500;
+        letter-spacing: 2px;
+}
+
+
+.copy{
+	text-align: left;
+	color: #f50c20;
+}
+
+
